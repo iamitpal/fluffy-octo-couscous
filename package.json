@@ -1,0 +1,19 @@
+{
+  "name": "iamitpal-sum",
+  "version": "1.0.0",
+  "description": "Function that will return sum of two integers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamitpal/fluffy-octo-couscous.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamitpal/fluffy-octo-couscous/issues"
+  },
+  "homepage": "https://github.com/iamitpal/fluffy-octo-couscous#readme"
+}
